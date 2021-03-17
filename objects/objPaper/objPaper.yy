@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "wolf_idle_left",
-    "path": "sprites/wolf_idle_left/wolf_idle_left.yy",
+    "name": "sprTempPaper",
+    "path": "sprites/sprTempPaper/sprTempPaper.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -21,8 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objCharacter","path":"objects/objCharacter/objCharacter.yy",},"parent":{"name":"objPaper","path":"objects/objPaper/objPaper.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_wolf",
+  "name": "objPaper",
   "tags": [],
   "resourceType": "GMObject",
 }

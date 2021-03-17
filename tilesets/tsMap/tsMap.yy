@@ -1,5 +1,4 @@
 {
-  "name": "tsMap",
   "spriteId": {
     "name": "sprSnowyMap",
     "path": "sprites/sprSnowyMap/sprSnowyMap.yy",
@@ -1061,6 +1060,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "tsMap",
   "tags": [],
   "resourceType": "GMTileSet",
 }
