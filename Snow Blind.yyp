@@ -13,6 +13,7 @@
     {"id":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"order":2,},
     {"id":{"name":"sprLeft","path":"sprites/sprLeft/sprLeft.yy",},"order":1,},
     {"id":{"name":"wolf_north","path":"sprites/wolf_north/wolf_north.yy",},"order":2,},
+    {"id":{"name":"wolf_idle","path":"sprites/wolf_idle/wolf_idle.yy",},"order":3,},
     {"id":{"name":"wolf_horizontal","path":"sprites/wolf_horizontal/wolf_horizontal.yy",},"order":0,},
     {"id":{"name":"rmGameRoom","path":"rooms/rmGameRoom/rmGameRoom.yy",},"order":0,},
   ],
