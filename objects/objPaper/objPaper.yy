@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sprTempPaper",
-    "path": "sprites/sprTempPaper/sprTempPaper.yy",
+    "name": "sprNPClipping",
+    "path": "sprites/sprNPClipping/sprNPClipping.yy",
   },
   "solid": true,
   "visible": true,
@@ -20,9 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objCharacter","path":"objects/objCharacter/objCharacter.yy",},"parent":{"name":"objPaper","path":"objects/objPaper/objPaper.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

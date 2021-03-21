@@ -1,10 +1,12 @@
 {
   "resources": [
     {"id":{"name":"fntHypoMeter","path":"fonts/fntHypoMeter/fntHypoMeter.yy",},"order":0,},
+    {"id":{"name":"sprCabin","path":"sprites/sprCabin/sprCabin.yy",},"order":9,},
     {"id":{"name":"sprFire","path":"sprites/sprFire/sprFire.yy",},"order":3,},
     {"id":{"name":"wolf_south","path":"sprites/wolf_south/wolf_south.yy",},"order":1,},
     {"id":{"name":"sprSnowyMap","path":"sprites/sprSnowyMap/sprSnowyMap.yy",},"order":1,},
     {"id":{"name":"wolf_horizontal_left","path":"sprites/wolf_horizontal_left/wolf_horizontal_left.yy",},"order":4,},
+    {"id":{"name":"sprNPClipping","path":"sprites/sprNPClipping/sprNPClipping.yy",},"order":8,},
     {"id":{"name":"objCharacter","path":"objects/objCharacter/objCharacter.yy",},"order":0,},
     {"id":{"name":"sprRight","path":"sprites/sprRight/sprRight.yy",},"order":0,},
     {"id":{"name":"objFire","path":"objects/objFire/objFire.yy",},"order":1,},
@@ -18,8 +20,6 @@
     {"id":{"name":"wolf_north","path":"sprites/wolf_north/wolf_north.yy",},"order":2,},
     {"id":{"name":"wolf_idle_left","path":"sprites/wolf_idle_left/wolf_idle_left.yy",},"order":3,},
     {"id":{"name":"wolf_idle_right","path":"sprites/wolf_idle_right/wolf_idle_right.yy",},"order":5,},
-    {"id":{"name":"sprTempPaper","path":"sprites/sprTempPaper/sprTempPaper.yy",},"order":6,},
-    {"id":{"name":"sprTempTextBox","path":"sprites/sprTempTextBox/sprTempTextBox.yy",},"order":7,},
     {"id":{"name":"wolf_horizontal_right","path":"sprites/wolf_horizontal_right/wolf_horizontal_right.yy",},"order":0,},
     {"id":{"name":"rmGameRoom","path":"rooms/rmGameRoom/rmGameRoom.yy",},"order":0,},
   ],

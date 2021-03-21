@@ -17,3 +17,10 @@ spd = 4;
 /// @DnDArgument : "expr" "0.5"
 /// @DnDArgument : "var" "animationSpd"
 animationSpd = 0.5;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5443789C
+/// @DnDArgument : "expr" "100"
+/// @DnDArgument : "var" "hypoMeter"
+hypoMeter = 100;
