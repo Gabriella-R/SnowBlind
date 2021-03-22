@@ -1,8 +1,11 @@
 {
   "resources": [
     {"id":{"name":"fntHypoMeter","path":"fonts/fntHypoMeter/fntHypoMeter.yy",},"order":0,},
+    {"id":{"name":"spr_spot_1","path":"sprites/spr_spot_1/spr_spot_1.yy",},"order":0,},
+    {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},"order":1,},
     {"id":{"name":"sprCabin","path":"sprites/sprCabin/sprCabin.yy",},"order":9,},
     {"id":{"name":"sprFire","path":"sprites/sprFire/sprFire.yy",},"order":3,},
+    {"id":{"name":"obj_exampleTextBox","path":"objects/obj_exampleTextBox/obj_exampleTextBox.yy",},"order":1,},
     {"id":{"name":"wolf_south","path":"sprites/wolf_south/wolf_south.yy",},"order":1,},
     {"id":{"name":"sprSnowyMap","path":"sprites/sprSnowyMap/sprSnowyMap.yy",},"order":1,},
     {"id":{"name":"wolf_horizontal_left","path":"sprites/wolf_horizontal_left/wolf_horizontal_left.yy",},"order":4,},
@@ -16,6 +19,8 @@
     {"id":{"name":"sprDown","path":"sprites/sprDown/sprDown.yy",},"order":3,},
     {"id":{"name":"sprUp","path":"sprites/sprUp/sprUp.yy",},"order":2,},
     {"id":{"name":"obj_wolf","path":"objects/obj_wolf/obj_wolf.yy",},"order":2,},
+    {"id":{"name":"spr_blackBox","path":"sprites/spr_blackBox/spr_blackBox.yy",},"order":1,},
+    {"id":{"name":"obj_parent_speaker","path":"objects/obj_parent_speaker/obj_parent_speaker.yy",},"order":0,},
     {"id":{"name":"sprLeft","path":"sprites/sprLeft/sprLeft.yy",},"order":1,},
     {"id":{"name":"wolf_north","path":"sprites/wolf_north/wolf_north.yy",},"order":2,},
     {"id":{"name":"wolf_idle_left","path":"sprites/wolf_idle_left/wolf_idle_left.yy",},"order":3,},
@@ -57,6 +62,10 @@
     {"folderPath":"folders/Sprites/Map Assets.yy","order":0,"resourceVersion":"1.0","name":"Map Assets","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Character Sprite.yy","order":2,"resourceVersion":"1.0","name":"Character Sprite","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Wolf Assets.yy","order":5,"resourceVersion":"1.0","name":"Wolf Assets","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/textbox stuff.yy","order":6,"resourceVersion":"1.0","name":"textbox stuff","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/textBox.yy","order":10,"resourceVersion":"1.0","name":"textBox","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/textbox stuff/parent_stuff.yy","order":3,"resourceVersion":"1.0","name":"parent_stuff","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/textbox stuff/actuall textbox's.yy","order":4,"resourceVersion":"1.0","name":"actuall textbox's","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
