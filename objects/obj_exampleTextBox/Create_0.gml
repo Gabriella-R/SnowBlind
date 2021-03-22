@@ -1,9 +1,11 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 35A70F56
-/// @DnDArgument : "code" "$(13_10)event_inherited();$(13_10)$(13_10)$(13_10)//toggle variables$(13_10)toggleSpot1 = 0;$(13_10)toggleSpot1_f = true;$(13_10)$(13_10)$(13_10)//set name$(13_10)myName = "Researcher 1"$(13_10)$(13_10)$(13_10)//create array of all text$(13_10)allText[0] = "Alright this is test number 4756, Lets see if the rover works...."$(13_10)allText[1] = "Try moving the rover first."$(13_10)$(13_10)$(13_10)"
-
+/// @DnDArgument : "code" "//inherite the original parent code$(13_10)event_inherited();$(13_10)$(13_10)//now add to it$(13_10)$(13_10)$(13_10)//toggle variables$(13_10)toggleSpot1 = 0;$(13_10)toggleSpot1_f = true;$(13_10)$(13_10)$(13_10)//set the newPaper name:$(13_10)myName = "NewsPaper 0"$(13_10)$(13_10)$(13_10)//create array of all text$(13_10)allText[0] = "This is page one"$(13_10)allText[1] = "this is page two lalalalalalalaafldskjldsaflkj adfkjsakf ajfdslkf afjdslkdfs afdksjf ldaksfjdlsa akdfja fdfskdsf aklflkf da fds fkdfdasjfk afdkfa fdsakfkdsfalds sda fkds fkadfk afd"$(13_10)$(13_10)//to add move pages just follow the example of the previous two but add one to the [#]$(13_10)$(13_10)"
+//inherite the original parent code
 event_inherited();
+
+//now add to it
 
 
 //toggle variables
@@ -11,10 +13,12 @@ toggleSpot1 = 0;
 toggleSpot1_f = true;
 
 
-//set name
-myName = "Researcher 1"
+//set the newPaper name:
+myName = "NewsPaper 0"
 
 
 //create array of all text
-allText[0] = "Alright this is test number 4756, Lets see if the rover works...."
-allText[1] = "Try moving the rover first."
+allText[0] = "This is page one"
+allText[1] = "this is page two lalalalalalalaafldskjldsaflkj adfkjsakf ajfdslkf afjdslkdfs afdksjf ldaksfjdlsa akdfja fdfskdsf aklflkf da fds fkdfdasjfk afdkfa fdsakfkdsfalds sda fkds fkadfk afd"
+
+//to add move pages just follow the example of the previous two but add one to the [#]
