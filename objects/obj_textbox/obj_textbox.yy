@@ -26,7 +26,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "parent_stuff",
-    "path": "folders/Objects/textbox stuff/parent_stuff.yy",
+    "path": "folders/Objects/Textbox Stuff/parent_stuff.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_textbox",
