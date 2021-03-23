@@ -31,7 +31,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "NEWS IN HERE",
-    "path": "folders/Objects/textbox stuff/NEWS IN HERE.yy",
+    "path": "folders/Objects/Textbox Stuff/NEWS IN HERE.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_news2",
