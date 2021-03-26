@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"10c6a31b-fda4-4bc0-9ea7-dca13462d8a4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Menu Screens",
+    "path": "folders/Sprites/Menu Screens.yy",
   },
   "resourceVersion": "1.0",
   "name": "sprYouLose",

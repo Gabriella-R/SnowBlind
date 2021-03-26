@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1734b113-f1ac-476c-8cbc-908c52ec1535","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Map Assets",
+    "path": "folders/Sprites/Map Assets.yy",
   },
   "resourceVersion": "1.0",
   "name": "sprNPClipping",

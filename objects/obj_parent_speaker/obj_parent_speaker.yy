@@ -25,8 +25,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "parent_stuff",
-    "path": "folders/Objects/Textbox Stuff/parent_stuff.yy",
+    "name": "Parent Stuff",
+    "path": "folders/Objects/Textbox Stuff/Parent Stuff.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_parent_speaker",

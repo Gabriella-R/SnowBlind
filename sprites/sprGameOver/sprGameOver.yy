@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f0d6c286-bc13-4ab6-ace6-1d620cbd0b03","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Menu Screens",
+    "path": "folders/Sprites/Menu Screens.yy",
   },
   "resourceVersion": "1.0",
   "name": "sprGameOver",

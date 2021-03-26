@@ -84,8 +84,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d04afa45-31c6-49e8-9f0c-528dca0eb7b7","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Map Assets",
+    "path": "folders/Sprites/Map Assets.yy",
   },
   "resourceVersion": "1.0",
   "name": "sprFire",
