@@ -24,3 +24,10 @@ animationSpd = 0.5;
 /// @DnDArgument : "expr" "100"
 /// @DnDArgument : "var" "hypoMeter"
 hypoMeter = 100;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 68E0D7F4
+/// @DnDArgument : "expr" "SnowWalk"
+/// @DnDArgument : "var" "footstepSFX"
+footstepSFX = SnowWalk;
