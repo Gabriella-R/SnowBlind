@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c47b3651-866d-4c71-983c-6be6eb4361ed","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "textBox",
-    "path": "folders/Sprites/textBox.yy",
+    "name": "Text Box",
+    "path": "folders/Sprites/Text Box.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_spot_1",
