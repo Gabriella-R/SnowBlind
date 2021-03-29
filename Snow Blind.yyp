@@ -36,6 +36,7 @@
     {"id":{"name":"sprRight","path":"sprites/sprRight/sprRight.yy",},"order":0,},
     {"id":{"name":"objFire","path":"objects/objFire/objFire.yy",},"order":1,},
     {"id":{"name":"obj_wolfSpawner","path":"objects/obj_wolfSpawner/obj_wolfSpawner.yy",},"order":2,},
+    {"id":{"name":"obj_fullscreen","path":"objects/obj_fullscreen/obj_fullscreen.yy",},"order":13,},
     {"id":{"name":"objEndButtons","path":"objects/objEndButtons/objEndButtons.yy",},"order":12,},
     {"id":{"name":"tsMap","path":"tilesets/tsMap/tsMap.yy",},"order":0,},
     {"id":{"name":"objPaper","path":"objects/objPaper/objPaper.yy",},"order":4,},
