@@ -25,6 +25,7 @@
     {"id":{"name":"obj_world","path":"objects/obj_world/obj_world.yy",},"order":7,},
     {"id":{"name":"obj_newsLast","path":"objects/obj_newsLast/obj_newsLast.yy",},"order":5,},
     {"id":{"name":"wolf_horizontal_left","path":"sprites/wolf_horizontal_left/wolf_horizontal_left.yy",},"order":4,},
+    {"id":{"name":"sfx_fire","path":"sounds/sfx_fire/sfx_fire.yy",},"order":4,},
     {"id":{"name":"BookFlip11","path":"sounds/BookFlip11/BookFlip11.yy",},"order":2,},
     {"id":{"name":"roar_03","path":"sounds/roar_03/roar_03.yy",},"order":4,},
     {"id":{"name":"sprNPClipping","path":"sprites/sprNPClipping/sprNPClipping.yy",},"order":3,},
